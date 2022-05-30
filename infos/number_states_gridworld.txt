@@ -1,0 +1,26 @@
+(1) 2room
+*** GridWorld2room_7_7 ***
+nbstates: 21
+
+*** GridWorld2room_9_9 ***
+nbstates: 43
+
+*** GridWorld2room_11_11 ***
+nbstates: 73
+
+(2) 4room
+
+*** GridWorld4room_7_7 ***
+nbstates: 20
+
+*** GridWorld4room_9_9 ***
+nbstates: 40
+
+*** GridWorld4room_11_11 ***
+nbstates: 68
+
+*** GridWorld4room_13_13 ***
+nbstates: 104
+
+
+

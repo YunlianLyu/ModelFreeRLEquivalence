@@ -1,0 +1,22 @@
+the line number in plot.py:
+
+riverswim20: 319
+
+riverswim20kappa1: 395
+
+riverswim50: 701
+
+gridworld2room_7_7: 787
+
+gridworld2room_7_7_kappa1: 839
+
+gridworld2room_9_9_kappa1: 925
+
+gridworld2room_11_11: 975
+
+gridworld4room_7_7: 1130
+
+gridworld4room_9_9: 1183
+
+
+
